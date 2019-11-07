@@ -1,5 +1,12 @@
 .vs
 x64
+*.tlog
+*.log
+*.obj
+*.pch
+*.pdb
+*.log
+*.idb
 
 # Prerequisites
 *.d
