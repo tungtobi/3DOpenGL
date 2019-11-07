@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  3DTrainingFramework.cpp
+  Camera.cpp
+  InputManager.cpp
+E:\HAN_internship\kien.vutrung\#2 - 3D Training\3DTrainingFramework\3DTrainingFramework\InputManager.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Model.cpp
+  Object.cpp
+  ResourceManager.cpp
+  SceneManager.cpp
+E:\HAN_internship\kien.vutrung\#2 - 3D Training\3DTrainingFramework\3DTrainingFramework\SceneManager.cpp(98): warning C4018: '<': signed/unsigned mismatch
+E:\HAN_internship\kien.vutrung\#2 - 3D Training\3DTrainingFramework\3DTrainingFramework\SceneManager.cpp(149): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\HAN_internship\kien.vutrung\#2 - 3D Training\3DTrainingFramework\3DTrainingFramework\SceneManager.cpp(148): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\HAN_internship\kien.vutrung\#2 - 3D Training\3DTrainingFramework\3DTrainingFramework\SceneManager.cpp(147): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Shaders.cpp
+  Texture.cpp
+  Generating Code...
+  3DTrainingFramework.vcxproj -> E:\HAN_internship\kien.vutrung\#2 - 3D Training\3DTrainingFramework\Bin\3DTrainingFramework.exe
